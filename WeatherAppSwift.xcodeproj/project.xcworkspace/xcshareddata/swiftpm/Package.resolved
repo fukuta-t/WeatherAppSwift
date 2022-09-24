@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "YumemiWeather",
+        "repositoryURL": "https://github.com/yumemi-inc/ios-training.git",
+        "state": {
+          "branch": "main",
+          "revision": "0c5dc570fec4111c588737ef9b7626cd30469da4",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
