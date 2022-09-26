@@ -1,13 +1,13 @@
 //
-//  WeatherAppSwiftUITests.swift
-//  WeatherAppSwiftUITests
+//  weatherAppSwiftUITests.swift
+//  weatherAppSwiftUITests
 //
 //  Created by fukutappe on 2022/06/28.
 //
 
 import XCTest
 
-class WeatherAppSwiftUITests: XCTestCase {
+class weatherAppSwiftUITests: XCTestCase {
     
     func testExample() throws {
         // UI tests must launch the application that they test.

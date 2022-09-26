@@ -17,15 +17,7 @@ class WeatherAppSwiftTests: XCTestCase {
         let storyboard = UIStoryboard(name: "Main", bundle: nil)
         viewController = (storyboard.instantiateViewController(withIdentifier: "WeatherViewController") as? WeatherViewController)!
     }
-    
-    // 関数の名前はなんでもOK
-    // テストコードでAPIは見なくていいんじゃないか...?
-//    func test足し算テストできるかどうかチェック() {
-//        viewController.loadView()
-//        let result = viewController.sumCalc(a: 7, b: 28)
-//        XCTAssertEqual(result, 35)
-//    }
-    
+        
     /* session 8
      天気予報がsunnyだったら、画面に晴れ画像が表示されること
      天気予報がcloudyだったら、画面に曇り画像が表示されること

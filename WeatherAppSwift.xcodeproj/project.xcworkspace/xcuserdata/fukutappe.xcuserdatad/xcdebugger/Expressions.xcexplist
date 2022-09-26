@@ -3,15 +3,7 @@
    version = "1.0">
    <ContextStates>
       <ContextState
-         contextName = "UserListViewModel.getEncoder():ViewModel.swift">
-      </ContextState>
-      <ContextState
-         contextName = "weatherAppSwiftTests.testWeatherData():weatherAppSwiftTests.swift">
-         <PersistentStrings>
-            <PersistentString
-               value = "viewController">
-            </PersistentString>
-         </PersistentStrings>
+         contextName = "UserListViewModel.getAPI():ViewModel.swift">
       </ContextState>
       <ContextState
          contextName = "ViewController.pushReload():ViewController.swift">
@@ -22,10 +14,7 @@
          </PersistentStrings>
       </ContextState>
       <ContextState
-         contextName = "UserListViewModel.getAPI():ViewModel.swift">
-      </ContextState>
-      <ContextState
-         contextName = "WeatherModelImpl.getWeatherData():ViewModel.swift">
+         contextName = "UserListViewModel.getEncoder():ViewModel.swift">
       </ContextState>
    </ContextStates>
 </VariablesViewState>

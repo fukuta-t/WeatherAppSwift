@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  WeatherAppSwift
+//  weatherAppSwift
 //
 //  Created by fukutappe on 2022/06/28.
 //

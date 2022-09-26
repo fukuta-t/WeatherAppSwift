@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  WeatherAppSwift
+//  weatherAppSwift
 //
 //  Created by fukutappe on 2022/07/01.
 //
